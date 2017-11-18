@@ -62,7 +62,7 @@ ms.lasthandoff: 10/21/2017
    sudo /opt/mssql/bin/mssql-conf setup
    ```
    > [!TIP]
-   > 如果您嘗試在此教學課程中的 SQL Server 2017，自由地滹砅下列版本： Evaluation、 Developer 和 Express。
+   > 如果您嘗試在此教學課程中的 SQL Server 2017，可以自由使用下列版本： Evaluation、 Developer 和 Express。
 
    > [!NOTE]
    > 請務必指定 SA 帳戶 （最小長度為 8 個字元，包括大寫和小寫字母、 10 進位數字及/或非英數符號） 的強式密碼。
